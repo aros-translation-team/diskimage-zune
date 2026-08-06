@@ -1,0 +1,180 @@
+## version $VER: diskimagegui.catalog 1.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+MSG_UNIT_LBL
+Laite
+; Unit
+;
+MSG_DEVICE_LBL
+Laite
+; Device
+;
+MSG_FILENAME_LBL
+Levykuva
+; Disk Image
+;
+MSG_WRITEPROTECT_LBL
+KS
+; WP
+;
+MSG_NO_DISK
+Levyä ei ole
+; No disk present
+;
+MSG_APPDESCRIPTION
+Käyttöliittymä diskimage.device-laitteelle
+; Control GUI for diskimage.device
+;
+MSG_PRIORITY_LBL
+Pri
+; Pri
+;
+MSG_PLUGIN_LBL
+Liitännäinen
+; Plugin
+;
+MSG_PLUGIN_GAD
+Käytä liitännäistä
+; Use plugin
+;
+MSG_AUTO_LBL
+(Auto)
+; (Auto)
+;
+MSG_WRITESUPPORT_LBL
+W
+; W
+;
+MSG_PROJECT_ABOUT
+Tietoa...
+; About...
+;
+MSG_PROJECT_HIDE
+Piilota
+; Hide
+;
+MSG_PROJECT_ICONIFY
+Pienennä kuvakkeeksi
+; Iconify
+;
+MSG_PROJECT_SNAPSHOT
+Snapshot
+; Snapshot
+;
+MSG_PROJECT_QUIT
+Lopeta
+; Quit
+;
+MSG_SETTINGS_MENU
+Asetukset
+; Settings
+;
+MSG_SETTINGS_CHANGETEMPDIR
+Vaihda väliaikaishakemisto...
+; Change temp directory...
+;
+MSG_SETTINGS_SAVE
+Tallenna asetukset
+; Save settings
+;
+MSG_SETTINGS_PLUGINS
+Liitännäiset...
+; Plugins...
+;
+MSG_PROJECT_CLOSE
+Sulje
+; Close
+;
+MSG_OK_GAD
+Selvä
+; Ok
+;
+MSG_ABOUT_REQ
+%s versio %ld.%ld\n%s versio %ld.%ld\n\nCopyright (C) 2007-2010 Fredrik Wikstrom\nKotisivu: http://a500.org\nSähköposti: fredrik@a500.org
+; %s version %ld.%ld\n%s version %ld.%ld\n\nCopyright (C) 2007-2010 Fredrik Wikstrom\nWebsite: http://a500.org\nE-mail: fredrik@a500.org
+;
+MSG_ERROR
+Virhe
+; Error
+;
+MSG_NOAISS_REQ
+AISS-assignia ei löytynyt.\n\nLataa ja asenna uusin versio\ntäältä: http://masonicons.de
+; AISS assign not found.\n\nDownload and install the latest version\nfrom here: http://masonicons.de
+;
+MSG_OLDAISS_REQ
+Vaaditaan AISS v%ld.%ld tai uudempi.\n\nLataa ja asenna uusin versio\ntäältä: http://masonicons.de
+; AISS v%ld.%ld or newer required.\n\nDownload and install the latest version\nfrom here: http://masonicons.de
+;
+MSG_IMAGENOTFOUND_REQ
+Levykuvatiedostoa '%s' ei löytynyt.
+; Image file '%s' not found.
+;
+MSG_CANCEL_GAD
+_Peru
+; _Cancel
+;
+MSG_SAVE_GAD
+_Tallenna
+; _Save
+;
+MSG_USE_GAD
+_Käytä
+; _Use
+;
+MSG_INSERT_GAD
+Aseta
+; Insert
+;
+MSG_EJECT_GAD
+Poista
+; Eject
+;
+MSG_WRITEPROTECT_GAD
+Kirjoitussuojaus
+; Write Protect
+;
+MSG_REFRESH_GAD
+Päivitä
+; Refresh
+;
+MSG_PLUGINS_WND
+Liitännäiset
+; Plugins
+;
+MSG_MAIN_WND
+%s: Hot Key = <%s>
+; %s: Hot Key = <%s>
+;
+MSG_ABOUT_WND
+Tietoja - %s
+; About - %s
+;
+MSG_ERROR_WND
+Virhe - %s
+; Error - %s
+;
+MSG_SETDEVICETYPE_GAD
+Aseta laitetyyppi
+; Set Device Type
+;
+MSG_SETDEVICETYPE_WND
+Yksikkö: %ld - Laitetyyppi
+; Unit: %ld - Device Type
+;
+MSG_DEVICETYPE_GAD
+Laitetyyppi
+; Device Type
+;
+MSG_DEVICETYPE_DIRECT_ACCESS
+Suora käyttö (oletusasetus)
+; Direct Access (Default setting)
+;
+MSG_DEVICETYPE_CDROM
+CD-ROM
+; CD-ROM
+;
+MSG_DEVICETYPE_OPTICAL_DISK
+Optinen levy
+; Optical Disk
+;

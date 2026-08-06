@@ -1,0 +1,180 @@
+## version $VER: diskimagegui.catalog 1.0 (06.08.2026)
+## language euskara
+## codeset 0
+;
+MSG_UNIT_LBL
+Unitatea
+; Unit
+;
+MSG_DEVICE_LBL
+Tresna
+; Device
+;
+MSG_FILENAME_LBL
+Disko-irudia
+; Disk Image
+;
+MSG_WRITEPROTECT_LBL
+WP
+; WP
+;
+MSG_NO_DISK
+Ez dago diskorik
+; No disk present
+;
+MSG_APPDESCRIPTION
+diskimage.device-rako kontrol-interfaze grafikoa
+; Control GUI for diskimage.device
+;
+MSG_PRIORITY_LBL
+Leh
+; Pri
+;
+MSG_PLUGIN_LBL
+Plugina
+; Plugin
+;
+MSG_PLUGIN_GAD
+Plugina erabili
+; Use plugin
+;
+MSG_AUTO_LBL
+(Auto)
+; (Auto)
+;
+MSG_WRITESUPPORT_LBL
+W
+; W
+;
+MSG_PROJECT_ABOUT
+About...
+; About...
+;
+MSG_PROJECT_HIDE
+Ezkutatu
+; Hide
+;
+MSG_PROJECT_ICONIFY
+Ikono bihurtu
+; Iconify
+;
+MSG_PROJECT_SNAPSHOT
+Izoztu
+; Snapshot
+;
+MSG_PROJECT_QUIT
+Atera
+; Quit
+;
+MSG_SETTINGS_MENU
+Ezarpenak
+; Settings
+;
+MSG_SETTINGS_CHANGETEMPDIR
+Aldi baterako direktorioa aldatu...
+; Change temp directory...
+;
+MSG_SETTINGS_SAVE
+Ezarpenak gorde
+; Save settings
+;
+MSG_SETTINGS_PLUGINS
+Pluginak...
+; Plugins...
+;
+MSG_PROJECT_CLOSE
+Itxi
+; Close
+;
+MSG_OK_GAD
+Ados
+; Ok
+;
+MSG_ABOUT_REQ
+%s %ld.%ld bertsioa\n%s %ld.%ld bertsioa\n\nCopyright (C) 2007-2010 Fredrik Wikstrom\nWebgunea: http://a500.org\nE-posta: fredrik@a500.org
+; %s version %ld.%ld\n%s version %ld.%ld\n\nCopyright (C) 2007-2010 Fredrik Wikstrom\nWebsite: http://a500.org\nE-mail: fredrik@a500.org
+;
+MSG_ERROR
+Errore
+; Error
+;
+MSG_NOAISS_REQ
+Ez da AISS esleipena aurkitu.\n\nDeskargatu eta instalatu azken bertsioa\nhemendik: http://masonicons.de
+; AISS assign not found.\n\nDownload and install the latest version\nfrom here: http://masonicons.de
+;
+MSG_OLDAISS_REQ
+AISS v%ld.%ld edo berriagoa behar da.\n\nDeskargatu eta instalatu azken bertsioa\nhemendik: http://masonicons.de
+; AISS v%ld.%ld or newer required.\n\nDownload and install the latest version\nfrom here: http://masonicons.de
+;
+MSG_IMAGENOTFOUND_REQ
+Ez da '%s' irudi-fitxategia aurkitu.
+; Image file '%s' not found.
+;
+MSG_CANCEL_GAD
+_Deuseztu
+; _Cancel
+;
+MSG_SAVE_GAD
+_Gorde
+; _Save
+;
+MSG_USE_GAD
+_Erabili
+; _Use
+;
+MSG_INSERT_GAD
+Insert
+; Insert
+;
+MSG_EJECT_GAD
+Egotzi
+; Eject
+;
+MSG_WRITEPROTECT_GAD
+Idazketa-babesa
+; Write Protect
+;
+MSG_REFRESH_GAD
+Freskatu
+; Refresh
+;
+MSG_PLUGINS_WND
+Pluginak
+; Plugins
+;
+MSG_MAIN_WND
+%s: Laster-tekla = <%s>
+; %s: Hot Key = <%s>
+;
+MSG_ABOUT_WND
+Honi buruz - %s
+; About - %s
+;
+MSG_ERROR_WND
+Errorea - %s
+; Error - %s
+;
+MSG_SETDEVICETYPE_GAD
+Gailu mota ezarri
+; Set Device Type
+;
+MSG_SETDEVICETYPE_WND
+Unitatea: %ld - Gailu mota
+; Unit: %ld - Device Type
+;
+MSG_DEVICETYPE_GAD
+Gailu mota
+; Device Type
+;
+MSG_DEVICETYPE_DIRECT_ACCESS
+Atzipen zuzena (ezarpen lehenetsia)
+; Direct Access (Default setting)
+;
+MSG_DEVICETYPE_CDROM
+CD-ROM
+; CD-ROM
+;
+MSG_DEVICETYPE_OPTICAL_DISK
+Disko optikoa
+; Optical Disk
+;

@@ -1,0 +1,180 @@
+## version $VER: diskimagegui.catalog 1.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_UNIT_LBL
+Jedinica
+; Unit
+;
+MSG_DEVICE_LBL
+UreÐaj
+; Device
+;
+MSG_FILENAME_LBL
+Slika diska
+; Disk Image
+;
+MSG_WRITEPROTECT_LBL
+WP
+; WP
+;
+MSG_NO_DISK
+Nema diska
+; No disk present
+;
+MSG_APPDESCRIPTION
+UpravljaŸki GUI za diskimage.device
+; Control GUI for diskimage.device
+;
+MSG_PRIORITY_LBL
+Pri
+; Pri
+;
+MSG_PLUGIN_LBL
+Dodatak
+; Plugin
+;
+MSG_PLUGIN_GAD
+Koristi dodatak
+; Use plugin
+;
+MSG_AUTO_LBL
+(Auto)
+; (Auto)
+;
+MSG_WRITESUPPORT_LBL
+W
+; W
+;
+MSG_PROJECT_ABOUT
+O programu...
+; About...
+;
+MSG_PROJECT_HIDE
+Sakrij
+; Hide
+;
+MSG_PROJECT_ICONIFY
+Ikonifikuj
+; Iconify
+;
+MSG_PROJECT_SNAPSHOT
+Snapshot
+; Snapshot
+;
+MSG_PROJECT_QUIT
+IzaÐi
+; Quit
+;
+MSG_SETTINGS_MENU
+Podeçavanja
+; Settings
+;
+MSG_SETTINGS_CHANGETEMPDIR
+Promeni privremeni direktorijum...
+; Change temp directory...
+;
+MSG_SETTINGS_SAVE
+Snimi podeçavanja
+; Save settings
+;
+MSG_SETTINGS_PLUGINS
+Dodaci...
+; Plugins...
+;
+MSG_PROJECT_CLOSE
+Zatvori
+; Close
+;
+MSG_OK_GAD
+Ok
+; Ok
+;
+MSG_ABOUT_REQ
+%s verzija %ld.%ld\n%s verzija %ld.%ld\n\nCopyright (C) 2007-2010 Fredrik Wikstrom\nVeb sajt: http://a500.org\nE-poçta: fredrik@a500.org
+; %s version %ld.%ld\n%s version %ld.%ld\n\nCopyright (C) 2007-2010 Fredrik Wikstrom\nWebsite: http://a500.org\nE-mail: fredrik@a500.org
+;
+MSG_ERROR
+Greçka
+; Error
+;
+MSG_NOAISS_REQ
+AISS asajn nije pronaÐen.\n\nPreuzmite i instalirajte najnoviju verziju\nodavde: http://masonicons.de
+; AISS assign not found.\n\nDownload and install the latest version\nfrom here: http://masonicons.de
+;
+MSG_OLDAISS_REQ
+Potreban je AISS v%ld.%ld ili noviji.\n\nPreuzmite i instalirajte najnoviju verziju\nodavde: http://masonicons.de
+; AISS v%ld.%ld or newer required.\n\nDownload and install the latest version\nfrom here: http://masonicons.de
+;
+MSG_IMAGENOTFOUND_REQ
+Fajl slike '%s' nije pronaÐen.
+; Image file '%s' not found.
+;
+MSG_CANCEL_GAD
+_Poniçti
+; _Cancel
+;
+MSG_SAVE_GAD
+_Snimi
+; _Save
+;
+MSG_USE_GAD
+_Koristi
+; _Use
+;
+MSG_INSERT_GAD
+Ubaci
+; Insert
+;
+MSG_EJECT_GAD
+Izbaci
+; Eject
+;
+MSG_WRITEPROTECT_GAD
+Zaçtita od pisanja
+; Write Protect
+;
+MSG_REFRESH_GAD
+Osve§i
+; Refresh
+;
+MSG_PLUGINS_WND
+Dodaci
+; Plugins
+;
+MSG_MAIN_WND
+%s: PreŸica = <%s>
+; %s: Hot Key = <%s>
+;
+MSG_ABOUT_WND
+O programu - %s
+; About - %s
+;
+MSG_ERROR_WND
+Greçka - %s
+; Error - %s
+;
+MSG_SETDEVICETYPE_GAD
+Postavi tip ureÐaja
+; Set Device Type
+;
+MSG_SETDEVICETYPE_WND
+Jedinica: %ld - tip ureÐaja
+; Unit: %ld - Device Type
+;
+MSG_DEVICETYPE_GAD
+Tip ureÐaja
+; Device Type
+;
+MSG_DEVICETYPE_DIRECT_ACCESS
+Direktan pristup (podrazumevano)
+; Direct Access (Default setting)
+;
+MSG_DEVICETYPE_CDROM
+CD-ROM
+; CD-ROM
+;
+MSG_DEVICETYPE_OPTICAL_DISK
+OptiŸki disk
+; Optical Disk
+;

@@ -1,0 +1,180 @@
+## version $VER: diskimagegui.catalog 1.0 (06.08.2026)
+## language svenska
+## codeset 0
+;
+MSG_UNIT_LBL
+Unit
+; Unit
+;
+MSG_DEVICE_LBL
+Enhet
+; Device
+;
+MSG_FILENAME_LBL
+Diskavbild
+; Disk Image
+;
+MSG_WRITEPROTECT_LBL
+WP
+; WP
+;
+MSG_NO_DISK
+Ingen disk isatt
+; No disk present
+;
+MSG_APPDESCRIPTION
+Kontrollgränssnitt för diskimage.device
+; Control GUI for diskimage.device
+;
+MSG_PRIORITY_LBL
+Pri
+; Pri
+;
+MSG_PLUGIN_LBL
+Plugin
+; Plugin
+;
+MSG_PLUGIN_GAD
+Använd plugin
+; Use plugin
+;
+MSG_AUTO_LBL
+(Auto)
+; (Auto)
+;
+MSG_WRITESUPPORT_LBL
+W
+; W
+;
+MSG_PROJECT_ABOUT
+Om...
+; About...
+;
+MSG_PROJECT_HIDE
+Göm
+; Hide
+;
+MSG_PROJECT_ICONIFY
+Ikonifiera
+; Iconify
+;
+MSG_PROJECT_SNAPSHOT
+Fixera
+; Snapshot
+;
+MSG_PROJECT_QUIT
+Avsluta
+; Quit
+;
+MSG_SETTINGS_MENU
+Inställningar
+; Settings
+;
+MSG_SETTINGS_CHANGETEMPDIR
+Ändra temporär katalog...
+; Change temp directory...
+;
+MSG_SETTINGS_SAVE
+Spara inställningar
+; Save settings
+;
+MSG_SETTINGS_PLUGINS
+Plugins...
+; Plugins...
+;
+MSG_PROJECT_CLOSE
+Stäng
+; Close
+;
+MSG_OK_GAD
+OK
+; Ok
+;
+MSG_ABOUT_REQ
+%s version %ld.%ld\n%s version %ld.%ld\n\nCopyright (C) 2007-2010 Fredrik Wikstrom\nWebbplats: http://a500.org\nE-post: fredrik@a500.org
+; %s version %ld.%ld\n%s version %ld.%ld\n\nCopyright (C) 2007-2010 Fredrik Wikstrom\nWebsite: http://a500.org\nE-mail: fredrik@a500.org
+;
+MSG_ERROR
+Fel
+; Error
+;
+MSG_NOAISS_REQ
+AISS-assign hittades inte.\n\nHämta och installera den senaste versionen\nhärifrån: http://masonicons.de
+; AISS assign not found.\n\nDownload and install the latest version\nfrom here: http://masonicons.de
+;
+MSG_OLDAISS_REQ
+AISS v%ld.%ld eller nyare krävs.\n\nHämta och installera den senaste versionen\nhärifrån: http://masonicons.de
+; AISS v%ld.%ld or newer required.\n\nDownload and install the latest version\nfrom here: http://masonicons.de
+;
+MSG_IMAGENOTFOUND_REQ
+Avbildsfilen '%s' hittades inte.
+; Image file '%s' not found.
+;
+MSG_CANCEL_GAD
+A_vbryt
+; _Cancel
+;
+MSG_SAVE_GAD
+_Spara
+; _Save
+;
+MSG_USE_GAD
+_Använd
+; _Use
+;
+MSG_INSERT_GAD
+Sätt i
+; Insert
+;
+MSG_EJECT_GAD
+Mata ut
+; Eject
+;
+MSG_WRITEPROTECT_GAD
+Skrivskydda
+; Write Protect
+;
+MSG_REFRESH_GAD
+Uppdatera
+; Refresh
+;
+MSG_PLUGINS_WND
+Plugins
+; Plugins
+;
+MSG_MAIN_WND
+%s: Snabbtangent = <%s>
+; %s: Hot Key = <%s>
+;
+MSG_ABOUT_WND
+Om - %s
+; About - %s
+;
+MSG_ERROR_WND
+Fel - %s
+; Error - %s
+;
+MSG_SETDEVICETYPE_GAD
+Ange enhetstyp
+; Set Device Type
+;
+MSG_SETDEVICETYPE_WND
+Unit: %ld - Enhetstyp
+; Unit: %ld - Device Type
+;
+MSG_DEVICETYPE_GAD
+Enhetstyp
+; Device Type
+;
+MSG_DEVICETYPE_DIRECT_ACCESS
+Direktåtkomst (förvald inställning)
+; Direct Access (Default setting)
+;
+MSG_DEVICETYPE_CDROM
+CD-ROM
+; CD-ROM
+;
+MSG_DEVICETYPE_OPTICAL_DISK
+Optisk disk
+; Optical Disk
+;

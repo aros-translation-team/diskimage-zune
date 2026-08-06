@@ -1,0 +1,180 @@
+## version $VER: diskimagegui.catalog 1.0 (06.08.2026)
+## language magyar
+## codeset 5
+;
+MSG_UNIT_LBL
+Egység
+; Unit
+;
+MSG_DEVICE_LBL
+Eszköz
+; Device
+;
+MSG_FILENAME_LBL
+Lemezkép
+; Disk Image
+;
+MSG_WRITEPROTECT_LBL
+ÍV
+; WP
+;
+MSG_NO_DISK
+Nincs lemez
+; No disk present
+;
+MSG_APPDESCRIPTION
+Vezérlõ GUI a diskimage.device-hez
+; Control GUI for diskimage.device
+;
+MSG_PRIORITY_LBL
+Pri
+; Pri
+;
+MSG_PLUGIN_LBL
+Bõvítmény
+; Plugin
+;
+MSG_PLUGIN_GAD
+Bõvítmény használata
+; Use plugin
+;
+MSG_AUTO_LBL
+(Auto)
+; (Auto)
+;
+MSG_WRITESUPPORT_LBL
+Í
+; W
+;
+MSG_PROJECT_ABOUT
+Névjegy...
+; About...
+;
+MSG_PROJECT_HIDE
+Rejt
+; Hide
+;
+MSG_PROJECT_ICONIFY
+Ikonizálás
+; Iconify
+;
+MSG_PROJECT_SNAPSHOT
+Pillanatkép
+; Snapshot
+;
+MSG_PROJECT_QUIT
+Kilépés
+; Quit
+;
+MSG_SETTINGS_MENU
+Beállítások
+; Settings
+;
+MSG_SETTINGS_CHANGETEMPDIR
+Ideiglenes könyvtár módosítása...
+; Change temp directory...
+;
+MSG_SETTINGS_SAVE
+Beállítások mentése
+; Save settings
+;
+MSG_SETTINGS_PLUGINS
+Bõvítmények...
+; Plugins...
+;
+MSG_PROJECT_CLOSE
+Bezárás
+; Close
+;
+MSG_OK_GAD
+Rendben
+; Ok
+;
+MSG_ABOUT_REQ
+%s %ld.%ld verzió\n%s %ld.%ld verzió\n\nCopyright (C) 2007-2010 Fredrik Wikstrom\nWeboldal: http://a500.org\nE-mail: fredrik@a500.org
+; %s version %ld.%ld\n%s version %ld.%ld\n\nCopyright (C) 2007-2010 Fredrik Wikstrom\nWebsite: http://a500.org\nE-mail: fredrik@a500.org
+;
+MSG_ERROR
+Hiba
+; Error
+;
+MSG_NOAISS_REQ
+Az AISS assign nem található.\n\nTöltsd le és telepítsd a legújabb verziót\ninnen: http://masonicons.de
+; AISS assign not found.\n\nDownload and install the latest version\nfrom here: http://masonicons.de
+;
+MSG_OLDAISS_REQ
+AISS v%ld.%ld vagy újabb szükséges.\n\nTöltsd le és telepítsd a legújabb verziót\ninnen: http://masonicons.de
+; AISS v%ld.%ld or newer required.\n\nDownload and install the latest version\nfrom here: http://masonicons.de
+;
+MSG_IMAGENOTFOUND_REQ
+A(z) '%s' képfájl nem található.
+; Image file '%s' not found.
+;
+MSG_CANCEL_GAD
+Mégse
+; _Cancel
+;
+MSG_SAVE_GAD
+Ment_sd
+; _Save
+;
+MSG_USE_GAD
+Használd
+; _Use
+;
+MSG_INSERT_GAD
+Behelyezés
+; Insert
+;
+MSG_EJECT_GAD
+Kiadás
+; Eject
+;
+MSG_WRITEPROTECT_GAD
+Írásvédelem
+; Write Protect
+;
+MSG_REFRESH_GAD
+Frissítés
+; Refresh
+;
+MSG_PLUGINS_WND
+Bõvítmények
+; Plugins
+;
+MSG_MAIN_WND
+%s: Gyorsbillentyû = <%s>
+; %s: Hot Key = <%s>
+;
+MSG_ABOUT_WND
+Névjegy - %s
+; About - %s
+;
+MSG_ERROR_WND
+Hiba - %s
+; Error - %s
+;
+MSG_SETDEVICETYPE_GAD
+Eszköztípus beállítása
+; Set Device Type
+;
+MSG_SETDEVICETYPE_WND
+Egység: %ld - Eszköztípus
+; Unit: %ld - Device Type
+;
+MSG_DEVICETYPE_GAD
+Eszköz típusa
+; Device Type
+;
+MSG_DEVICETYPE_DIRECT_ACCESS
+Közvetlen elérés (alapértelmezett)
+; Direct Access (Default setting)
+;
+MSG_DEVICETYPE_CDROM
+CD-ROM
+; CD-ROM
+;
+MSG_DEVICETYPE_OPTICAL_DISK
+Optikai lemez
+; Optical Disk
+;

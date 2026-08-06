@@ -1,0 +1,180 @@
+## version $VER: diskimagegui.catalog 1.0 (06.08.2026)
+## language español
+## codeset 0
+;
+MSG_UNIT_LBL
+Unidad
+; Unit
+;
+MSG_DEVICE_LBL
+Dispositivo
+; Device
+;
+MSG_FILENAME_LBL
+Imagen de disco
+; Disk Image
+;
+MSG_WRITEPROTECT_LBL
+PE
+; WP
+;
+MSG_NO_DISK
+No hay disco
+; No disk present
+;
+MSG_APPDESCRIPTION
+Interfaz de control para diskimage.device
+; Control GUI for diskimage.device
+;
+MSG_PRIORITY_LBL
+Pri
+; Pri
+;
+MSG_PLUGIN_LBL
+Plugin
+; Plugin
+;
+MSG_PLUGIN_GAD
+Usar plugin
+; Use plugin
+;
+MSG_AUTO_LBL
+(Auto)
+; (Auto)
+;
+MSG_WRITESUPPORT_LBL
+W
+; W
+;
+MSG_PROJECT_ABOUT
+Sobre...
+; About...
+;
+MSG_PROJECT_HIDE
+Ocultar
+; Hide
+;
+MSG_PROJECT_ICONIFY
+Iconificar
+; Iconify
+;
+MSG_PROJECT_SNAPSHOT
+Congelar
+; Snapshot
+;
+MSG_PROJECT_QUIT
+Salir
+; Quit
+;
+MSG_SETTINGS_MENU
+Configuraciones
+; Settings
+;
+MSG_SETTINGS_CHANGETEMPDIR
+Cambiar directorio temporal...
+; Change temp directory...
+;
+MSG_SETTINGS_SAVE
+Guardar ajustes
+; Save settings
+;
+MSG_SETTINGS_PLUGINS
+Plugins...
+; Plugins...
+;
+MSG_PROJECT_CLOSE
+Cerrar
+; Close
+;
+MSG_OK_GAD
+Aceptar
+; Ok
+;
+MSG_ABOUT_REQ
+%s versión %ld.%ld\n%s versión %ld.%ld\n\nCopyright (C) 2007-2010 Fredrik Wikstrom\nSitio web: http://a500.org\nCorreo: fredrik@a500.org
+; %s version %ld.%ld\n%s version %ld.%ld\n\nCopyright (C) 2007-2010 Fredrik Wikstrom\nWebsite: http://a500.org\nE-mail: fredrik@a500.org
+;
+MSG_ERROR
+Error
+; Error
+;
+MSG_NOAISS_REQ
+No se ha encontrado el assign AISS.\n\nDescarga e instala la última versión\ndesde aquí: http://masonicons.de
+; AISS assign not found.\n\nDownload and install the latest version\nfrom here: http://masonicons.de
+;
+MSG_OLDAISS_REQ
+Se requiere AISS v%ld.%ld o superior.\n\nDescarga e instala la última versión\ndesde aquí: http://masonicons.de
+; AISS v%ld.%ld or newer required.\n\nDownload and install the latest version\nfrom here: http://masonicons.de
+;
+MSG_IMAGENOTFOUND_REQ
+No se ha encontrado el fichero de imagen '%s'.
+; Image file '%s' not found.
+;
+MSG_CANCEL_GAD
+_Cancelar
+; _Cancel
+;
+MSG_SAVE_GAD
+_Guardar
+; _Save
+;
+MSG_USE_GAD
+_Usar
+; _Use
+;
+MSG_INSERT_GAD
+Insert
+; Insert
+;
+MSG_EJECT_GAD
+Expulsar
+; Eject
+;
+MSG_WRITEPROTECT_GAD
+Protección de escritura
+; Write Protect
+;
+MSG_REFRESH_GAD
+Refrescar
+; Refresh
+;
+MSG_PLUGINS_WND
+Plugins
+; Plugins
+;
+MSG_MAIN_WND
+%s: Atajo = <%s>
+; %s: Hot Key = <%s>
+;
+MSG_ABOUT_WND
+Acerca de - %s
+; About - %s
+;
+MSG_ERROR_WND
+Error - %s
+; Error - %s
+;
+MSG_SETDEVICETYPE_GAD
+Establecer tipo de dispositivo
+; Set Device Type
+;
+MSG_SETDEVICETYPE_WND
+Unidad: %ld - Tipo de dispositivo
+; Unit: %ld - Device Type
+;
+MSG_DEVICETYPE_GAD
+Tipo de dispositivo
+; Device Type
+;
+MSG_DEVICETYPE_DIRECT_ACCESS
+Acceso directo (ajuste por defecto)
+; Direct Access (Default setting)
+;
+MSG_DEVICETYPE_CDROM
+CD-ROM
+; CD-ROM
+;
+MSG_DEVICETYPE_OPTICAL_DISK
+Disco óptico
+; Optical Disk
+;

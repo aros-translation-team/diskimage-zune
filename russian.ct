@@ -1,0 +1,180 @@
+## version $VER: diskimagegui.catalog 1.0 (06.08.2026)
+## language russian
+## codeset 2104
+;
+MSG_UNIT_LBL
+Unit
+; Unit
+;
+MSG_DEVICE_LBL
+Устройство
+; Device
+;
+MSG_FILENAME_LBL
+Образ диска
+; Disk Image
+;
+MSG_WRITEPROTECT_LBL
+Защита
+; WP
+;
+MSG_NO_DISK
+Диск отсутствует
+; No disk present
+;
+MSG_APPDESCRIPTION
+Графический интерфейс управления diskimage.device
+; Control GUI for diskimage.device
+;
+MSG_PRIORITY_LBL
+Pri
+; Pri
+;
+MSG_PLUGIN_LBL
+Плагин
+; Plugin
+;
+MSG_PLUGIN_GAD
+Использовать плагин
+; Use plugin
+;
+MSG_AUTO_LBL
+(Авто)
+; (Auto)
+;
+MSG_WRITESUPPORT_LBL
+W
+; W
+;
+MSG_PROJECT_ABOUT
+О программе...
+; About...
+;
+MSG_PROJECT_HIDE
+Скрыть
+; Hide
+;
+MSG_PROJECT_ICONIFY
+Свернуть
+; Iconify
+;
+MSG_PROJECT_SNAPSHOT
+Снимок
+; Snapshot
+;
+MSG_PROJECT_QUIT
+Выход
+; Quit
+;
+MSG_SETTINGS_MENU
+Настройки
+; Settings
+;
+MSG_SETTINGS_CHANGETEMPDIR
+Сменить временную директорию...
+; Change temp directory...
+;
+MSG_SETTINGS_SAVE
+Сохранить настройки
+; Save settings
+;
+MSG_SETTINGS_PLUGINS
+Плагины...
+; Plugins...
+;
+MSG_PROJECT_CLOSE
+Закрыть
+; Close
+;
+MSG_OK_GAD
+Ок
+; Ok
+;
+MSG_ABOUT_REQ
+%s версия %ld.%ld\n%s версия %ld.%ld\n\nCopyright (C) 2007-2010 Fredrik Wikstrom\nСайт: http://a500.org\nE-mail: fredrik@a500.org
+; %s version %ld.%ld\n%s version %ld.%ld\n\nCopyright (C) 2007-2010 Fredrik Wikstrom\nWebsite: http://a500.org\nE-mail: fredrik@a500.org
+;
+MSG_ERROR
+Ошибка
+; Error
+;
+MSG_NOAISS_REQ
+Назначение AISS не найдено.\n\nЗагрузите и установите последнюю версию\nотсюда: http://masonicons.de
+; AISS assign not found.\n\nDownload and install the latest version\nfrom here: http://masonicons.de
+;
+MSG_OLDAISS_REQ
+Требуется AISS v%ld.%ld или новее.\n\nЗагрузите и установите последнюю версию\nотсюда: http://masonicons.de
+; AISS v%ld.%ld or newer required.\n\nDownload and install the latest version\nfrom here: http://masonicons.de
+;
+MSG_IMAGENOTFOUND_REQ
+Файл образа '%s' не найден.
+; Image file '%s' not found.
+;
+MSG_CANCEL_GAD
+Отмена
+; _Cancel
+;
+MSG_SAVE_GAD
+_Сохранить
+; _Save
+;
+MSG_USE_GAD
+Применить
+; _Use
+;
+MSG_INSERT_GAD
+Insert
+; Insert
+;
+MSG_EJECT_GAD
+Извлечь
+; Eject
+;
+MSG_WRITEPROTECT_GAD
+Защита от записи
+; Write Protect
+;
+MSG_REFRESH_GAD
+Обновить
+; Refresh
+;
+MSG_PLUGINS_WND
+Плагины
+; Plugins
+;
+MSG_MAIN_WND
+%s: Горячая клавиша = <%s>
+; %s: Hot Key = <%s>
+;
+MSG_ABOUT_WND
+О программе - %s
+; About - %s
+;
+MSG_ERROR_WND
+Ошибка - %s
+; Error - %s
+;
+MSG_SETDEVICETYPE_GAD
+Задать тип устройства
+; Set Device Type
+;
+MSG_SETDEVICETYPE_WND
+Unit: %ld - Тип устройства
+; Unit: %ld - Device Type
+;
+MSG_DEVICETYPE_GAD
+Тип устройства
+; Device Type
+;
+MSG_DEVICETYPE_DIRECT_ACCESS
+Прямой доступ (по умолчанию)
+; Direct Access (Default setting)
+;
+MSG_DEVICETYPE_CDROM
+CD-ROM
+; CD-ROM
+;
+MSG_DEVICETYPE_OPTICAL_DISK
+Оптический диск
+; Optical Disk
+;
